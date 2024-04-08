@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 98,
+        "lat": 22
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 309.86,
+        "feels_like": 307.26,
+        "temp_min": 309.86,
+        "temp_max": 309.86,
+        "pressure": 1003,
+        "humidity": 13,
+        "sea_level": 1003,
+        "grnd_level": 910
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.83,
+        "deg": 282,
+        "gust": 8.21
+    },
+    "clouds": {
+        "all": 5
+    },
+    "dt": 1712220730,
+    "sys": {
+        "country": "MM",
+        "sunrise": 1712186270,
+        "sunset": 1712231023
+    },
+    "timezone": 23400,
+    "id": 1327865,
+    "name": "Myanmar",
+    "cod": 200
+}
